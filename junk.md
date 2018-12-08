@@ -1,6 +1,6 @@
 ---
-title: EDA
-nav_include: 1
+title: junk
+nav_include: 3
 ---
 
 hello
